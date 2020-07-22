@@ -64,7 +64,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://edwardharvey.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/moko"
@@ -73,7 +73,7 @@ author:
       url: "https://github.com/moko"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/edharvey/"
 
 footer:
   links:
@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/moko"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/edharvey/"
 
 defaults:
   # _posts
