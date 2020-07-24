@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ed Harvey"
   avatar : "/assets/images/moko399x399.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My personal website."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
