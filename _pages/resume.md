@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: resume
+title: Resume
 ---
   <article id=main role=main class="container_12 clearfix">
     <header role=banner class=clearfix>
