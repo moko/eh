@@ -1,29 +1,7 @@
-<!doctype html>
-<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
-<html class=no-js lang=en>
-<!--<![endif]-->
-
-<head>
-  <title>L. Edward Harvey - r&#233;sum&#233;</title>
-  <meta charset=utf-8>
-  <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
-  <meta name=description
-    content="R&#233;sum&#233; for L. Edward Harvey, Application Developer, Data Scientist &amp; Biogeographer.">
-  <meta name=author content="L. Edward Harvey">
-  <meta name=viewport content="width=device-width, initial-scale=1.0">
-  <!--link rel="shortcut icon" href="/favicon.ico"-->
-  <!--link rel=apple-touch-icon href="/apple-touch-icon.png"-->
-  <script src="http://use.typekit.com/eid4dbz.js"></script>
-  <script>try { Typekit.load(); } catch (e) { }</script>
-  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <link rel=stylesheet href=resume.css>
-
-</head>
-
-<body>
+---
+layout: default
+title: Home
+---
   <article id=main role=main class="container_12 clearfix">
     <header role=banner class=clearfix>
       <hgroup class=clearfix>
@@ -335,6 +313,3 @@ var x = "function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" 
       <p class=copyright>&copy; Copyright L. Edward Harvey. All Rights Reserved.</p>
     </footer>
   </article><!-- #main -->
-</body>
-
-</html>
